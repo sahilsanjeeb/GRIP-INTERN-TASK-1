@@ -4,4 +4,7 @@ In this regression task we will predict the percentage of marks that a student i
 score based upon the number of hours they studied.
 This is a simple linear regression task as it
 involves just two variables.
+# GRIP-INTERN-TASK-2
+To predict the optimum number of clusters and represent it visually,of the given data set.
+USING KMEANS
 
